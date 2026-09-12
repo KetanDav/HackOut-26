@@ -1,0 +1,4 @@
+﻿* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0f172a; }
+table { table-layout: auto; }
+input:focus, select:focus { outline: 2px solid #22c55e; }
